@@ -1,3 +1,3 @@
-chuseigaku ― 宙政学 ―
+chuseigaku ― 宙政学
 
 重力を概念と捉えた時、認識は大気圏を突破する
