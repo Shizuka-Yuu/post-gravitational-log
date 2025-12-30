@@ -33,7 +33,7 @@
 [System Log] 
 観測データ：重力圏における経済活動の減退と、新たな基軸の台頭
 
-![[Gemini_Generated_Image_tj8nt6tj8nt6tj8n_111-processed(lightpdf.com).png]]
+![](Gemini_Generated_Image_tj8nt6tj8nt6tj8n_111-processed(lightpdf.com).png)
 
 ### 2. ミノフスキー・ショック ―― 消失する「レーダー」
 
@@ -80,7 +80,7 @@
 [System Log] 
 観測データ：重力OSの機能不全と、物理執行体（MS）への意志実装
 
-![[Gemini_Generated_Image_tj8nt6tj8nt6tj8n_222-processed(lightpdf.com).png]]
+![](Gemini_Generated_Image_tj8nt6tj8nt6tj8n_222-processed(lightpdf.com).png)
 
 `**■ 状況分析：地球重力圏（旧経済OS）** 既存の金融拠点（ジャブロー/ワシントン）におけるROI（投資収益率）の計測不能を確認。通貨という名のバラストが機動力を奪い、旧来の羅針盤は機能を停止している。重力に魂を引かれた者たちは、依然として「消失したレーダー」の残像を凝視し続けている。`
 
