@@ -39,8 +39,9 @@ It is merely the delayed replay of several years' worth of logs.
 November 2025, Washington, D.C. Saudi Arabia, which once monopolized the “earth's heritage” of oil and controlled the source of wealth. Its rulers dared to occupy the John F. Kennedy Center, the heart of the Earth Federation, as a branch office of “Neutral Zone Side 6.”
 
 
+<a href="URL">FULL: Elon Musk Makes Shocking Future Predictions At U.S.-Saudi Arabia Forum Alongside Jensen Huang 🔗</a>
   <div align="left">
-  <a href="https://www.youtube.com/watch?v=4bUmso_277Y" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=4bUmso_277Y">
     <img src="img/2025-11-19_thumbnail.png" alt="Observation Log: The Dawn of the Minovsky Party" width="600px">
     <br>
     <b>Observation Log: 'WORK WILL BE OPTIONAL' - The Emergence of the Neutral Zone in Washington D.C.</b>

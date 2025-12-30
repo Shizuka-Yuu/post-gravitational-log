@@ -25,9 +25,9 @@
 かつて石油という「地球の遺産」を独占し、富の源泉を支配したサウジアラビア。その支配者たちが、あえて地球連邦の心臓部たるジョン・F・ケネディ・センターを「中立地帯サイド6」の出張所として占拠した。
 
 
-
+<a href="URL">FULL: Elon Musk Makes Shocking Future Predictions At U.S.-Saudi Arabia Forum Alongside Jensen Huang 🔗</a>
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=4bUmso_277Y" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=4bUmso_277Y">
     <img src="img/2025-11-19_thumbnail.png" alt="Observation Log: The Dawn of the Minovsky Party" width="600px">
     <br>
     <b>Observation Log: 『労働は選択肢（オプション）へ』 ―― ワシントンD.C.に出現した中立地帯の記録</b>
