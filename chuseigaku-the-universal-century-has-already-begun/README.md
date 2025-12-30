@@ -1,28 +1,45 @@
-### 📘 Reading Notice / Interpretive Framework
+### README Overview (Recommended)
 
-> **This repository documents an observational framework, not a predictive or prescriptive doctrine.**
+> **Modern Space Politics (Chuseigaku)** is a speculative, metaphor-driven framework for observing structural acceleration in technology, economics, and human agency.  
+> Through a three-part narrative arc, it reinterprets contemporary phenomena using mythological and science-fictional language as analytical tools.  
+> This repository records not predictions or prescriptions, but an interpretive model for how existing measurement systems lose coherence under computation-driven change.  
+> Readers are invited to observe the structure, not to adopt its conclusions.
+
+
+## 📘 Reading Notice / Interpretive Framework (Three-Part Edition)
+
+> **This repository presents a three-part speculative observation, not a doctrine, forecast, or policy proposal.**
 > 
-> _Modern Space Politics (Chuseigaku)_ is a speculative, metaphor-driven system of interpretation that records perceived accelerations and structural shifts in contemporary technological, economic, and social systems.
+> _Modern Space Politics (Chuseigaku)_ is a metaphor-driven interpretive framework that examines perceived accelerations and structural shifts in technology, economics, and human agency through a narrative and mythological lens.
 > 
-> All references to real individuals, organizations, locations, or technologies are used **symbolically and contextually**, not as factual assertions, endorsements, or quotations of intent.
+> Although this work adopts the format of “logs,” “analysis,” and “declarations,” these forms are **literary and conceptual devices**, not claims of objective measurement or insider knowledge.
 > 
-> Scientific, economic, and political terms appearing in this text may be employed **analogically rather than literally**. Expressions such as “infinite,” “particle,” “deployment,” or “awakening” describe **relative scale changes, qualitative transitions, or experiential phenomena**, not formal claims subject to empirical verification.
+> References to real individuals, corporations, nations, technologies, dates, or numerical values are employed **symbolically, allegorically, or contextually**. They do **not** represent factual assertions, predictions, endorsements, or statements of intent by the referenced entities.
 > 
-> This work does **not** propose policy, ideology, financial advice, or technological forecasts. It should be read as:
+> Scientific, economic, and political terminology within this text may be used **analogically rather than literally**. Expressions such as “particles,” “infinite,” “deployment,” “singularity,” or “awakening” describe **qualitative transitions, shifts in scale, or experiential thresholds**, not empirically testable claims.
 > 
-> - an interpretive lens
+> The three parts should be read as a continuous conceptual arc:
+> 
+> - **Part 1** frames the loss of existing measurement systems and the onset of acceleration.
 >     
-> - a conceptual log
+> - **Part 2** explores divergence, selection, and asymmetric adaptation within that acceleration.
 >     
-> - or a form of speculative systems thought
+> - **Part 3** adopts a declarative and mythic tone to illustrate irreversible separation and commitment.
 >     
 > 
-> Agreement, disagreement, or belief is neither expected nor required.  
-> The reader is invited only to **observe**.
+> This progression reflects a **change in narrative mode**, not an escalation from analysis to advocacy.
+> 
+> This work does **not** offer financial advice, technological roadmaps, political ideology, or guidance for action. Agreement, belief, or rejection are unnecessary.
+> 
+> The reader is invited only to **observe the structure**, not to accept its conclusions.
+
+
 
 
 ### chuseigaku-the-universal-century-has-already-begun
 ### 現代宙政学――宇宙世紀はすでに始まっている
+
+[Repository Structure]
 
 > - `Part 1.md` (日本語)
 >     
