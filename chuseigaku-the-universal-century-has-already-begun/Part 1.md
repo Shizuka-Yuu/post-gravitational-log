@@ -27,7 +27,7 @@
 
 
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=4bUmso_277Y">
+  <a href="https://www.youtube.com/watch?v=4bUmso_277Y" target="_blank" rel="noopener noreferrer">
     <img src="img/2025-11-19_thumbnail.png" alt="Observation Log: The Dawn of the Minovsky Party" width="600px">
     <br>
     <b>Observation Log: 『労働は選択肢（オプション）へ』 ―― ワシントンD.C.に出現した中立地帯の記録</b>
