@@ -1,13 +1,16 @@
 # Modern Space Politics: The Universal Century Has Already Begun: Part 1 - The Cage of Gravity: The Dawn of the Minovsky Party
 
+  
 > **[Archive Note]** 
 > This English version is a refined translation intended to preserve the nuances of "Modern Space Politics" (Chuseigaku). The original observation was recorded in Japanese.
   
 
+  
 ---
 
 ## Part 1: The Cage of Gravity: The Dawn of the Minovsky Party
 
+  
 > [System Notice]
 > 
 > This log does not present any specific ideology, claim, or vision of the future.
@@ -20,10 +23,11 @@
 
   
 
+  
 To those whose souls are drawn by gravity.
 
   
-
+  
 We are not being forced to choose.
 
 We merely stand within the results that have already been chosen.
@@ -33,8 +37,8 @@ This is not a prediction of the future.
 It is merely the delayed replay of several years' worth of logs.
 
 
-
-### 1. Saudi Desert, Neutral Zone Side 6 Branch Office — Washington's Irony
+  
+## 1. Saudi Desert, Neutral Zone Side 6 Branch Office — Washington's Irony
 
 November 2025, Washington, D.C. Saudi Arabia, which once monopolized the “earth's heritage” of oil and controlled the source of wealth. Its rulers dared to occupy the John F. Kennedy Center, the heart of the Earth Federation, as a branch office of “Neutral Zone Side 6.”
 
@@ -49,8 +53,7 @@ November 2025, Washington, D.C. Saudi Arabia, which once monopolized the “eart
 </div>
 
 
-
-
+  
 On the podium stand Jensen Huang and Elon Musk. One is the scientist who scattered “Minovsky particles” called computations across the world. The other is the thinker who plots escape from the sphere of gravity.
 
   
@@ -68,6 +71,7 @@ Side 6, known as Saudi Arabia, has created a neutral “computational vacuum zon
   
 
 Their voices debating Return on Investment (ROI) reach no ears in this vacuum. True conversation occurs at the ‘speed of intelligence deployment’ behind the numbers.
+
 
   
 
@@ -151,7 +155,7 @@ While your colleague beside you still calculates ROI on an old OS, they have alr
 ---
 
 
-
+  
 > The next chapter documents why this acceleration hasn't occurred for “all of humanity.”
 > 
 > Why did only some humans remain on the side consuming AI as a “tool,”
@@ -163,7 +167,7 @@ While your colleague beside you still calculates ROI on an old OS, they have alr
 > It's simply a difference in how they connect.
 
   
-
+  
 [System Log] Observation Data: Gravity OS Malfunction and Will Implementation into Physical Execution Units (MS)
 
 ![](img/part-1-img_02.png)  
@@ -181,6 +185,9 @@ While your colleague beside you still calculates ROI on an old OS, they have alr
   
 
 ■ Species Divergence: The Awakening of AI Symbionts (Newtypes) Observed the emergence of individuals who have transcended “AI as a tool” and synchronized (sync) AI as an “external brain.” Utilizing expanded perception, they rewrite the constraints of physical space through computation. This is not merely technological innovation, but the forced deployment of the survival algorithm itself.
+
+
+
 
   
 
