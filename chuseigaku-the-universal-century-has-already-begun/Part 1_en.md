@@ -51,9 +51,8 @@ November 2025, Washington, D.C. Saudi Arabia, which once monopolized the “eart
     <b>Observation Log: 'WORK WILL BE OPTIONAL' - The Emergence of the Neutral Zone in Washington D.C.</b>
   </a>
 </div>
+<br>
 
-
-  
 On the podium stand Jensen Huang and Elon Musk. One is the scientist who scattered “Minovsky particles” called computations across the world. The other is the thinker who plots escape from the sphere of gravity.
 
   
