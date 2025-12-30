@@ -8,6 +8,8 @@
 > Readers are invited to observe the structure, not to adopt its conclusions.
 
 
+---
+
 ## 📘 Reading Notice / Interpretive Framework (Three-Part Edition)
 
 > **This repository presents a three-part speculative observation, not a doctrine, forecast, or policy proposal.**
@@ -37,13 +39,15 @@
 
 
 
+---
+
 
 ### chuseigaku-the-universal-century-has-already-begun
 ### 現代宙政学――宇宙世紀はすでに始まっている
 
 [Repository Structure]
 
-> - `Part 1.md` (日本語)
+> - `Part 1.md` (Japanese)
 >     
 > - `Part 1_en.md` (English)
 
