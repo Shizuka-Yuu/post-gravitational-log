@@ -1,8 +1,10 @@
-### README Overview (Recommended)
+## 📘 README Overview (Recommended)
 
 > **Modern Space Politics (Chuseigaku)** is a speculative, metaphor-driven framework for observing structural acceleration in technology, economics, and human agency.  
 > Through a three-part narrative arc, it reinterprets contemporary phenomena using mythological and science-fictional language as analytical tools.  
+> 
 > This repository records not predictions or prescriptions, but an interpretive model for how existing measurement systems lose coherence under computation-driven change.  
+> 
 > Readers are invited to observe the structure, not to adopt its conclusions.
 
 
