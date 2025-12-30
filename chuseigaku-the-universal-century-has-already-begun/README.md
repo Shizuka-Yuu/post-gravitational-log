@@ -45,9 +45,8 @@
 ### chuseigaku-the-universal-century-has-already-begun
 ### 現代宙政学――宇宙世紀はすでに始まっている
 
-[Repository Structure]
 
-> - `Part 1.md` (Japanese)
->     
-> - `Part 1_en.md` (English)
+## 📂 Repository Structure
 
+> - [Part 1: The Cage of Gravity](Part%201_en.md) (English)
+> - [第一部：重力の檻](Part%201.md) (Japanese)
