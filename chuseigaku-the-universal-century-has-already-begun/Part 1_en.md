@@ -175,15 +175,15 @@ While your colleague beside you still calculates ROI on an old OS, they have alr
 
   
 
-■ Situation Analysis: Earth Gravity Sphere (Legacy Economic OS) Confirmed inability to measure ROI (Return on Investment) at existing financial hubs (Jaburo/Washington). Ballast in the form of currency has robbed them of mobility, and the old compass has ceased functioning. Those whose souls are bound by gravity continue to stare fixedly at the afterimage of the “vanished radar.”
-
-  
-
-■ Strategic Singularity: Anaheim Fixer's Covert Operations Confirmed indiscriminate investment in computational resources by massive capital (Anaheim Electronics). The foundational portfolio for physical execution units (MS) has been completed for both the Federation and Zeon factions. This establishes “capital warp navigation” that neutralizes existing borders and regulations.
-
-  
-
-■ Species Divergence: The Awakening of AI Symbionts (Newtypes) Observed the emergence of individuals who have transcended “AI as a tool” and synchronized (sync) AI as an “external brain.” Utilizing expanded perception, they rewrite the constraints of physical space through computation. This is not merely technological innovation, but the forced deployment of the survival algorithm itself.
+> ■ Situation Analysis: Earth Gravity Sphere (Legacy Economic OS) Confirmed inability to measure ROI (Return on Investment) at existing financial hubs (Jaburo/Washington). Ballast in the form of currency has robbed them of mobility, and the old compass has ceased functioning. Those whose souls are bound by gravity continue to stare fixedly at the afterimage of the “vanished radar.”
+> 
+>   
+> 
+> ■ Strategic Singularity: Anaheim Fixer's Covert Operations Confirmed indiscriminate investment in computational resources by massive capital (Anaheim Electronics). The foundational portfolio for physical execution units (MS) has been completed for both the Federation and Zeon factions. This establishes “capital warp navigation” that neutralizes existing borders and regulations.
+> 
+>   
+> 
+> ■ Species Divergence: The Awakening of AI Symbionts (Newtypes) Observed the emergence of individuals who have transcended “AI as a tool” and synchronized (sync) AI as an “external brain.” Utilizing expanded perception, they rewrite the constraints of physical space through computation. This is not merely technological innovation, but the forced deployment of the survival algorithm itself.
 
 
 
